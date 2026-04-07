@@ -1,6 +1,7 @@
 
 HireNext-Job-Platform-Website  
 Tech Stack 
+
 Frontend : ReactJS, TailWindCSS, Shadcn UI.            
 Backend  : NodeJS , Express.JS.                                    
 Database : MongoDB.                                  
@@ -33,7 +34,51 @@ Finally, I deployed the application using MongoDB Atlas, Render, and Vercel, whi
 
 
 Front Page  
+
 <img width="1913" height="967" alt="Screenshot 2026-04-07 183027" src="https://github.com/user-attachments/assets/88ba8f27-1676-4529-a79b-b42ae634cf6a" /> 
+
+Job opening Page 
+
+<img width="1897" height="916" alt="Screenshot 2026-04-07 183036" src="https://github.com/user-attachments/assets/92ad6d5d-901d-4800-a670-73e4175638a1" />
+
+<img width="1891" height="911" alt="Screenshot 2026-04-07 183048" src="https://github.com/user-attachments/assets/415be49d-e4d5-4e4d-8d5d-cad41bdf3fc6" />
+
+Footer Page 
+
+<img width="1906" height="492" alt="Screenshot 2026-04-07 183056" src="https://github.com/user-attachments/assets/e74d7f02-0f3d-439e-95be-a84765616d3a" /> 
+
+AboutUs Page 
+
+<img width="1900" height="968" alt="Screenshot 2026-04-07 183140" src="https://github.com/user-attachments/assets/2a575279-cd33-4c9f-9b03-09f1578b4a69" />
+
+Candidate Profile Page 
+
+<img width="1907" height="964" alt="Screenshot 2026-04-07 183447" src="https://github.com/user-attachments/assets/07030086-36df-4d0b-875c-a50f6a59aec5" />
+
+Admin Recruter Panel 
+
+<img width="1905" height="963" alt="Screenshot 2026-04-07 183851" src="https://github.com/user-attachments/assets/ece93623-9609-4e3a-8534-f19d2ba57870" />
+
+Job Posting Page For Recruter
+
+<img width="1905" height="972" alt="Screenshot 2026-04-07 183945" src="https://github.com/user-attachments/assets/a3895b53-6573-403f-873d-0c92652bab12" />
+
+Job applied Candidate for Recruter 
+
+<img width="1910" height="969" alt="Screenshot 2026-04-07 184020" src="https://github.com/user-attachments/assets/2dd5047a-7c57-4141-9db9-3cf2924fba01" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
