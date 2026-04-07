@@ -31,3 +31,34 @@ On the backend, I developed RESTful APIs to handle job postings, applications, a
 
 Finally, I deployed the application using MongoDB Atlas, Render, and Vercel, which helped me gain experience in real-world deployment and environment setup.
 
+
+Front Page  
+<img width="1913" height="967" alt="Screenshot 2026-04-07 183027" src="https://github.com/user-attachments/assets/88ba8f27-1676-4529-a79b-b42ae634cf6a" /> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
